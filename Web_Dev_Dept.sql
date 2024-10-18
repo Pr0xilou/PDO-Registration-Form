@@ -1,5 +1,5 @@
 create table Web_Dev_Dept (
-	dev_id INT,
+	dev_id INT PRIMARY KEY,
 	first_name VARCHAR(50),
 	last_name VARCHAR(50),
 	email VARCHAR(50),
